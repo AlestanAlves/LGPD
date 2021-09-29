@@ -1,5 +1,38 @@
 # LGPD
 
+Lista Geral dos Principais Pontos da LGPD para criacao de uma politica de privacidade
+
+Elaboração/Atualização: os dados estão sendo coletados conforme a Política de Privacidade informada?
+
+- Quais os dados coletados? Nome, RG, CPF, endereço, dados bancários, dados dos veículos, contatos, preferências.
+- Finalidades.
+
+- Consentimento, Não Consentimento e Revogação do Consentimento.
+
+- Transparência: manutenção de registros internos; melhoria de produtos e serviços; marketing, cookies.
+
+- Segurança.
+
+- Parceiros comerciais, produtos e serviços.
+
+- Responsabilidades.
+
+- Dados do Controlador.
+
+- Dados do Encarregado (DPO - Data Protection Officer).
+
+- Informações sobre o compartilhamento de dados.
+
+- Descarte de Dados e Período.
+
+- Direitos do Titular de Dados.
+
+- Boas Práticas.
+
+- Treinamento de Equipes.
+
+- Atuação das Equipes: papeis e responsabilidades; documentos e registros.
+
 Estudo de LGPD
 
 Conforme dispõe o artigo 5º, da LGPD:
