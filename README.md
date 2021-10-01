@@ -3,6 +3,7 @@
 Lista Geral dos Principais Pontos da LGPD para criacao de uma politica de privacidade
 Elaboração/Atualização: os dados estão sendo coletados conforme a Política de Privacidade informada?
 
+
 - Quais os dados coletados? Nome, RG, CPF, endereço, dados bancários, dados dos veículos, contatos, preferências.
 - Finalidades.
 
