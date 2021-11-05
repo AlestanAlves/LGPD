@@ -5,7 +5,6 @@ Elaboração/Atualização: os dados estão sendo coletados conforme a Política
 
 - Quais os dados coletados? Nome, RG, CPF, endereço, dados bancários, dados dos veículos, contatos, preferências.
 - Finalidades.
-
 - Consentimento, Não Consentimento e Revogação do Consentimento.
 
 - Transparência: manutenção de registros internos; melhoria de produtos e serviços; marketing, cookies.
